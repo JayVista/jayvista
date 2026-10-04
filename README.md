@@ -43,3 +43,7 @@
 "#ERROR! 的年龄不是报错，而是对时间的叛逆。接下来的路，继续硬核，继续试错，继续在废墟里，写自己的操作系统。"
 
 ---
+
+社交主页
+[![bilibili](https://img.shields.io/badge/bilibili-我的主页-FB7299?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/3707050081126670)
+
